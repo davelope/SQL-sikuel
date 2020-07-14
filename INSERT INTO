@@ -9,3 +9,33 @@ VALUES (7,'Rotua','Rot','1975-08-30','P',1996,'Jln Kenari','63','123456','Klaten
 
 INSERT INTO "PEMAIN"
 VALUES (9,'Rini','Rin','1988-03-19','P',2003,'Jln Bangau','37','234567','Bandung','022-343211','3321');
+
+INSERT INTO "PEMAIN"
+VALUES (12,'Hamzan','Ham','1990-06-12','L',2009,'Jln Cakranegara','12','356233','Mataram','0233-574843','2345');
+
+INSERT INTO "PEMAIN"
+VALUES (29,"Binter","Btr","1991-11-03","L",1999,"Jln Pertanian","28","653722","Tangerang","023-483392","6739");
+
+INSERT INTO "PEMAIN"
+VALUES (31,"Tobat","Tot","1977-06-30","L",1999,"Jln Simarimbun","78","352098","Jakarta","021-392802","4567");
+
+INSERT INTO "PEMAIN"
+VALUES (33,"Teti","Tet","1979-04-23","P",2005,"Jln Cendrawasih","22","354999","Yogyakarta","0274-353273","1234");
+
+INSERT INTO "PEMAIN"
+VALUES (45,"Binsar","Bnr","1989-10-28","L",1998,"Jln Peternakan","22","847363","Lampung","089-839374","7484");
+
+INSERT INTO "PEMAIN"
+VALUES (47,"Raja","Raj","1981-08-23","L",1997,"Jln Singa","98","987654","Solo","0271-983999",NULL);
+
+INSERT INTO "PEMAIN"
+VALUES (67,"Warwan","Mar","1989-04-11","L",1998,"Jln Kunir Asem","66","746575","Jambi","084-374844","8734");
+
+INSERT INTO "PEMAIN"
+VALUES (70,"Cinta","Cnt","1987-11-29","P",1994,"Jln Bayam","99","363523","Palembang","087-748393","7434");
+
+INSERT INTO "PEMAIN"
+VALUES (71,"Gonggom","Gon","1985-05-25","L",1991,"Jln Pinus","56","789675","Pekan Baru","0733-943392","7837");
+
+INSERT INTO "PEMAIN"
+VALUES (89,"Tresna","Tre","1984-07-15","L",1990,"Jln Rusa","20","675866","Tarutung","0622-349585",NULL);
