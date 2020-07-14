@@ -1,0 +1,11 @@
+INSERT INTO "PEMAIN"
+VALUES (6,"Robert","R","1981-06-25","L",2000,"Jln Medan","27","342623","Siantar","0622-363723","8467");
+
+INSERT INTO "PEMAIN"
+VALUES (2,'Rico','Ric','1988-04-21','L',2001,'Jln Kenanga','21','673433','Medan','061-363729',NULL);
+
+INSERT INTO "PEMAIN"
+VALUES (7,'Rotua','Rot','1975-08-30','P',1996,'Jln Kenari','63','123456','Klaten','0272-346343','7463');
+
+INSERT INTO "PEMAIN"
+VALUES (9,'Rini','Rin','1988-03-19','P',2003,'Jln Bangau','37','234567','Bandung','022-343211','3321');
