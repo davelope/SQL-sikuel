@@ -4,3 +4,7 @@ FROM PERMAINAN;
 
 #cara bacanya adalah, NOPERMAINAN di match dengan SELECT NOPERMAINAN
 #dan SELISH di match dengan ABS(MENANG-KALAH)
+
+#cara pakainya
+SELECT *
+FROM SELISIH_MENANG_KALAH ;
