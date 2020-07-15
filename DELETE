@@ -1,0 +1,4 @@
+DELETE FROM HUKUMAN
+WHERE JUMLAH > 190 ;
+
+#delete itu 1 row yg terpengaruh, bukan cuma 1 record
