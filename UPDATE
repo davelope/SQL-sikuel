@@ -1,0 +1,7 @@
+UPDATE HUKUMAN
+SET JUMLAH = 200
+WHERE NOPEMAIN = 6 ;
+
+#kalau gabisa, masuk ke Tab Edit, Preferences, SQL Editor
+#paling bawah ada safe update, diuncheck
+#terus reconnect DBMS
