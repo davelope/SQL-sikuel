@@ -12,3 +12,16 @@ SELECT * FROM HUKUMAN;
 
 SELECT 18*10
 
+SELECT * FROM . . . 
+ORDER BY . . . ;
+
+SELECT * FROM . . .
+WHERE NAMA LIKE "% . . . %" ;
+
+SELECT *
+FROM . . .
+LIMIT 0,5 (?); 
+bukannya cukup angka 5 aja--
+cek commenting--
+
+
