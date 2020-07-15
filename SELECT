@@ -24,4 +24,10 @@ LIMIT 0,5 (?);
 bukannya cukup angka 5 aja--
 cek commenting--
 
+SELECT SUM(. . . ) AS . . . 
+FROM . . . ;
+
+SELECT MAX( . . . ) AS . . .
+FROM . . . ;
+
 
