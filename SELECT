@@ -126,6 +126,27 @@ ADDDATE(TANGGAL_LAHIR, INTERVAL 7 DAY)
 FROM PEMAIN
 WHERE DAYNAME(TANGGAL_LAHIR) = 'Saturday' ;
 
+SELECT NOPEMAIN
+FROM PEMAIN
+LIMIT 3 ;
+
+SELECT NOPEMAIN.PEMAIN
+FROM PEMAIN ;
+
+SELECT *
+FROM ms_produk
+WHERE nama_produk = 'Gantungan Kunci DQLab';
+
+SELECT *
+FROM ms_produk
+WHERE nama_produk = 'Gantungan Kunci DQLab'
+OR nama_produk = 'Tas Travel Organizer DQLab';
+
+SELECT *
+FROM ms_produk
+WHERE nama_produk = 'Gantungan Kunci DQLab'
+AND harga > 50000;
+
 
 
 
