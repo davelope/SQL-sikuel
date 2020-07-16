@@ -18,6 +18,11 @@ WHERE JUMLAH = 25 ;
 CREATE INDEX JUMLAH_HUKUMAN
 ON HUKUMAN(JUMLAH) ;
 
+SELECT @@VERSION ;
+
+#######################################
+
+
 SELECT * FROM . . . 
 ORDER BY . . . ;
 
